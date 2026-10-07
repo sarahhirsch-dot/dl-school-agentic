@@ -11,7 +11,8 @@
     "example:rag:deterministic": "tsx example/rag/deterministic-chain.ts",
     "example:mcp": "tsx example/mcp/handbook-server.ts",
     "example:mcp:demo": "tsx example/mcp/handbook-demo-client.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "my:rag": "tsx follow-up/my-rag.ts"
   },
   "dependencies": {
     "@langchain/core": "^1.2.16",
@@ -19,6 +20,7 @@
     "@modelcontextprotocol/sdk": "^1.32.1",
     "@pinecone-database/pinecone": "^9.0.0",
     "openai": "^7.28.0",
+    "pdfjs-dist": "^4.10.38",
     "zod": "^4.6.5"
   },
   "devDependencies": {

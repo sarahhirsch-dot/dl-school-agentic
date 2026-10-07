@@ -1,0 +1,160 @@
+{
+  "doc": "hunde-grundlagen.pdf + hunde-pflege-ernaehrung.pdf",
+  "version": "2026-10-07",
+  "chunks": [
+    {
+      "id": "hunde-grundlagen-chunk-1",
+      "page": 1,
+      "section": "1 Herkunft des Hundes",
+      "section_id": "1",
+      "source_file": "hunde-grundlagen.pdf",
+      "chunk_index": 1,
+      "chunk_text": "Der Haushund stammt vom Wolf ab. Wann genau die Domestizierung begann, ist in der Forschung umstritten. Die meisten Schätzungen liegen bei mindestens 15.000 Jahren, manche Studien gehen von deutlich mehr aus. Damit ist der Hund das älteste Haustier des Menschen. Vermutlich näherten sich Wölfe zunächst den Lagern von Jägern und Sammlern, weil sie dort Essensreste fanden. Tiere, die weniger scheu waren, hatten einen Vorteil. Über viele Generationen entstand so eine enge Gemeinschaft zwischen Mensch und Hund."
+    },
+    {
+      "id": "hunde-grundlagen-chunk-2",
+      "page": 1,
+      "section": "2 Hunderassen",
+      "section_id": "2",
+      "source_file": "hunde-grundlagen.pdf",
+      "chunk_index": 2,
+      "chunk_text": "Heute gibt es mehrere hundert Hunderassen. Der internationale Dachverband FCI erkennt rund 350 Rassen an. Die Unterschiede sind enorm: Ein Chihuahua wiegt oft nur ein bis drei Kilogramm, eine Deutsche Dogge kann über 60 Kilogramm schwer werden. Die meisten Rassen sind erst in den letzten 200 Jahren gezielt gezüchtet worden. Früher wurden Hunde vor allem nach ihrer Aufgabe ausgewählt, etwa zum Hüten, Jagen oder Bewachen."
+    },
+    {
+      "id": "hunde-grundlagen-chunk-3",
+      "page": 1,
+      "section": "3 Die Sinne des Hundes",
+      "section_id": "3",
+      "source_file": "hunde-grundlagen.pdf",
+      "chunk_index": 3,
+      "chunk_text": "Hunde nehmen ihre Umwelt anders wahr als Menschen. Besonders ausgeprägt sind ihr Geruchssinn und ihr Gehör, während sie Farben weniger gut unterscheiden können."
+    },
+    {
+      "id": "hunde-grundlagen-chunk-4",
+      "page": 1,
+      "section": "3.1 Geruchssinn",
+      "section_id": "3.1",
+      "source_file": "hunde-grundlagen.pdf",
+      "chunk_index": 4,
+      "chunk_text": "Der Geruchssinn ist der wichtigste Sinn des Hundes. Je nach Rasse besitzt ein Hund etwa 100 bis 300 Millionen Riechzellen, ein Mensch nur rund 5 bis 6 Millionen. Deshalb werden Hunde als Spürhunde eingesetzt, zum Beispiel bei der Suche nach vermissten Personen, Drogen oder Sprengstoff. Ein interessantes Detail: Das Muster auf der Nase eines Hundes ist bei jedem Tier einzigartig, ähnlich wie der Fingerabdruck beim Menschen."
+    },
+    {
+      "id": "hunde-grundlagen-chunk-5",
+      "page": 1,
+      "section": "3.2 Gehör",
+      "section_id": "3.2",
+      "source_file": "hunde-grundlagen.pdf",
+      "chunk_index": 5,
+      "chunk_text": "Hunde hören deutlich höhere Töne als Menschen. Während Menschen Töne bis etwa 20.000 Hertz wahrnehmen, hören Hunde bis in den Bereich von etwa 45.000 Hertz und mehr. Darauf beruhen Hundepfeifen, die für Menschen kaum hörbar sind."
+    },
+    {
+      "id": "hunde-grundlagen-chunk-6",
+      "page": 1,
+      "section": "3.3 Sehen",
+      "section_id": "3.3",
+      "source_file": "hunde-grundlagen.pdf",
+      "chunk_index": 6,
+      "chunk_text": "Hunde sind nicht farbenblind, sehen aber weniger Farben als Menschen. Sie unterscheiden vor allem Blauund Gelbtöne, Rot und Grün können sie schlecht auseinanderhalten. Dafür erkennen sie Bewegungen sehr gut und sehen in der Dämmerung besser als wir."
+    },
+    {
+      "id": "hunde-grundlagen-chunk-7",
+      "page": 1,
+      "section": "4 Kommunikation",
+      "section_id": "4",
+      "source_file": "hunde-grundlagen.pdf",
+      "chunk_index": 7,
+      "chunk_text": "Hunde kommunizieren vor allem über Körpersprache. Ohren, Rute, Haltung und Gesichtsausdruck verraten viel über ihre Stimmung. Ein wedelnder Schwanz bedeutet dabei nicht immer Freude, sondern zunächst nur Aufregung. Entscheidend ist der Zusammenhang mit der übrigen Körpersprache. Bellen, Knurren, Winseln und Heulen ergänzen die Körpersprache. Studien zeigen außerdem, dass Hunde menschliche Gesten wie das Zeigen mit dem Finger besser verstehen als viele andere Tiere."
+    },
+    {
+      "id": "hunde-grundlagen-chunk-8",
+      "page": 2,
+      "section": "5 Schlaf und Ruhe",
+      "section_id": "5",
+      "source_file": "hunde-grundlagen.pdf",
+      "chunk_index": 8,
+      "chunk_text": "Erwachsene Hunde schlafen und dösen etwa 12 bis 14 Stunden am Tag, Welpen und ältere Hunde oft noch mehr. Ausreichend Ruhe ist wichtig, damit Hunde Erlebtes verarbeiten können. Ein Hund, der zu wenig Ruhe bekommt, kann nervös oder gereizt reagieren."
+    },
+    {
+      "id": "hunde-pflege-ernaehrung-chunk-1",
+      "page": 1,
+      "section": "1 Ernährung",
+      "section_id": "1",
+      "source_file": "hunde-pflege-ernaehrung.pdf",
+      "chunk_index": 1,
+      "chunk_text": "Hunde sind keine reinen Fleischfresser, sondern können auch pflanzliche Bestandteile verwerten. Ein ausgewogenes Hundefutter enthält Eiweiß, Fett, Kohlenhydrate, Vitamine und Mineralstoffe. Wie viel ein Hund braucht, hängt von Größe, Alter und Aktivität ab. Frisches Wasser sollte immer zur Verfügung stehen. Erwachsene Hunde werden meist einbis zweimal am Tag gefüttert, Welpen häufiger."
+    },
+    {
+      "id": "hunde-pflege-ernaehrung-chunk-2",
+      "page": 1,
+      "section": "1.1 Giftige Lebensmittel",
+      "section_id": "1.1",
+      "source_file": "hunde-pflege-ernaehrung.pdf",
+      "chunk_index": 2,
+      "chunk_text": "Einige Lebensmittel, die für Menschen harmlos sind, können für Hunde gefährlich werden. Dazu gehört Schokolade, weil sie den Stoff Theobromin enthält. Je dunkler die Schokolade, desto gefährlicher ist sie. Auch Weintrauben und Rosinen, Zwiebeln und Knoblauch sowie der Süßstoff Xylit, der zum Beispiel in manchem Kaugummi steckt, sind für Hunde giftig. Hat ein Hund davon gefressen, sollte man schnell eine Tierarztpraxis kontaktieren."
+    },
+    {
+      "id": "hunde-pflege-ernaehrung-chunk-3",
+      "page": 1,
+      "section": "2 Bewegung und Beschäftigung",
+      "section_id": "2",
+      "source_file": "hunde-pflege-ernaehrung.pdf",
+      "chunk_index": 3,
+      "chunk_text": "Wie viel Bewegung ein Hund braucht, hängt stark von der Rasse ab. Hütehunde wie der Border Collie brauchen viel körperliche und geistige Auslastung, während manche kleine oder ältere Hunde mit kürzeren Spaziergängen zufrieden sind. Neben Spaziergängen sind Suchund Denkspiele eine gute Beschäftigung. Geistige Arbeit ermüdet Hunde oft genauso wie körperliche Bewegung."
+    },
+    {
+      "id": "hunde-pflege-ernaehrung-chunk-4",
+      "page": 1,
+      "section": "3 Pflege",
+      "section_id": "3",
+      "source_file": "hunde-pflege-ernaehrung.pdf",
+      "chunk_index": 4,
+      "chunk_text": "Regelmäßige Pflege hält Hunde gesund. Dazu gehören Fellpflege, Krallenpflege und die Kontrolle von Ohren und Zähnen."
+    },
+    {
+      "id": "hunde-pflege-ernaehrung-chunk-5",
+      "page": 1,
+      "section": "3.1 Fellpflege",
+      "section_id": "3.1",
+      "source_file": "hunde-pflege-ernaehrung.pdf",
+      "chunk_index": 5,
+      "chunk_text": "Wie oft ein Hund gebürstet werden muss, hängt vom Fell ab. Langhaarige Hunde sollten mehrmals pro Woche gebürstet werden, damit das Fell nicht verfilzt. Viele Hunde verlieren im Frühjahr und Herbst besonders viele Haare, weil sie ihr Fell wechseln. Baden sollte man Hunde nur, wenn es wirklich nötig ist, und dann mit einem speziellen Hundeshampoo, da menschliche Shampoos die Haut reizen können."
+    },
+    {
+      "id": "hunde-pflege-ernaehrung-chunk-6",
+      "page": 1,
+      "section": "3.2 Zähne",
+      "section_id": "3.2",
+      "source_file": "hunde-pflege-ernaehrung.pdf",
+      "chunk_index": 6,
+      "chunk_text": "Welpen haben 28 Milchzähne. Zwischen dem vierten und siebten Lebensmonat wechseln sie zu ihrem bleibenden Gebiss mit 42 Zähnen. Zahnstein ist bei erwachsenen Hunden häufig, deshalb lohnt sich eine regelmäßige Kontrolle der Zähne."
+    },
+    {
+      "id": "hunde-pflege-ernaehrung-chunk-7",
+      "page": 1,
+      "section": "4 Gesundheit",
+      "section_id": "4",
+      "source_file": "hunde-pflege-ernaehrung.pdf",
+      "chunk_index": 7,
+      "chunk_text": "Hunde regulieren ihre Körpertemperatur vor allem durch Hecheln, denn sie haben nur an den Pfoten Schweißdrüsen. Bei Hitze sind sie deshalb besonders gefährdet. Hunde sollten niemals im geparkten Auto gelassen werden, auch nicht für kurze Zeit."
+    },
+    {
+      "id": "hunde-pflege-ernaehrung-chunk-8",
+      "page": 2,
+      "section": "4.1 Impfungen",
+      "section_id": "4.1",
+      "source_file": "hunde-pflege-ernaehrung.pdf",
+      "chunk_index": 8,
+      "chunk_text": "Tierärztinnen und Tierärzte empfehlen in Deutschland unter anderem Impfungen gegen Staupe, Parvovirose, ansteckende Leberentzündung (Hepatitis), Leptospirose und Tollwut. Für Reisen ins Ausland ist eine gültige Tollwutimpfung meist vorgeschrieben."
+    },
+    {
+      "id": "hunde-pflege-ernaehrung-chunk-9",
+      "page": 2,
+      "section": "4.2 Lebenserwartung",
+      "section_id": "4.2",
+      "source_file": "hunde-pflege-ernaehrung.pdf",
+      "chunk_index": 9,
+      "chunk_text": "Die Lebenserwartung von Hunden liegt meist zwischen 10 und 15 Jahren. Kleine Rassen werden im Durchschnitt älter als große. Ein Chihuahua kann 15 Jahre und älter werden, während sehr große Rassen wie die Deutsche Dogge oft nur 8 bis 10 Jahre alt werden."
+    }
+  ],
+  "golden_questions": []
+}
